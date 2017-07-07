@@ -8,3 +8,7 @@
 7. What we are doing now
 
 Create new branch English and begin translate.
+
+Make design.
+
+Start new branch with HTML/CSS implementation for design.
